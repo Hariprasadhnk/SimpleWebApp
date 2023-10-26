@@ -1,112 +1,150 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <title>Flipkart shopping website</title>
-    <link rel="stylesheet" href="style.css">
-<style>
-	*{
-    margin: 0;
-    padding: 0;
-}
-
-html{
-    scroll-behavior: smooth;
-}
-
-body{
-    font-size: 100%;
-    font-family: sans-serif;
-}
-
-div, section, span, ul, li, a, header{
-    box-sizing: border-box;
-}
-
-/*css reset*/
-
-header{
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    padding: 20px 50px;
-    align-items: center;
-    position: fixed;
-    z-index: 999;
-}
-
-#menu li{
-    list-style: none;
-    display: inline-block;
-    margin: 20px;
-}
-
-#menu li a{
-    color: #fff;
-    text-decoration: none;
-    font-size: 20px;
-}
-
-section{
-    width: 100%;
-    float: left;
-    height: 100vh;
-    position: relative;
-}
-
-#home{
-   background-color: #59405C;
-}
-
-#about{
-     background-color: #ED6663;
-}
-
-#product{
-     background-color: #B52B65;
-}
-
-#pricing{
-     background-color: #3C2C3E;
-}
-
-#contact{
-     background-color: #B52B65;
-}
-
-h1{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-}
-</style>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio</title>
+    <script src="https://kit.fontawesome.com/5eb2c51ffb.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css" />
 </head>
-
 <body>
-    
-    <section id="home">
-        <header>
-            <span style="font-size:64px;margin-right:10px;color:black">Amazon shopping website</span>
-            <ul id="menu">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About Us</a></li>
-                <li><a href="#product">Product</a></li>
-                <li><a href="#pricing">Pricing</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-		
-        </header>
-         <h1>Mega sale</h1>   
-	 
-
-    </section>    
-    <section id="about"><h1>This Is About</h1></section>
-    <section id="product"><h1>This Is Product</h1></section>
-    <section id="pricing"><h1>This Is Pricing</h1></section>
-    <section id="contact"><h1>This Is Contact</h1></section>
-
+    <nav id="navbar" class="nav">
+        <ul>
+            <li>
+                <a href="#welcome-section">About</a>
+            </li>
+            <li>
+                <a href="#projects">Work</a>
+            </li>
+            <li>
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <!-- Second Section-->
+    <section id="welcome-section">
+        <h1>Hey I'm Madan</h1>
+        <p><i>a front-end web developer</i></p>
+    </section>
+    <section id="projects" class="project-section">
+        <h2 class="projects-section-header">My Project's</h2>
+        <div class="projects-grid">
+            <a href="https://codepen.io/MadanSinha/full/MWgjyKm" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/project_pic/blob/main/photography.jpg?raw=true" alt="project" />
+                <p class="project-title">
+                    Photography Page
+                </p>
+            </a>
+            <a href="https://codepen.io/MadanSinha/full/eYdXzme" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/project_pic/blob/main/SimpleQuote%20Generator.jpg?raw=true"
+                    alt="project" />
+                <p class="project-title">
+                    Random Quote Machine
+                </p>
+            </a>
+            <a href="https://codepen.io/MadanSinha/full/poEQpzM" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/project_pic/blob/main/LandingPage.jpg?raw=true" alt="project" />
+                <p class="project-title">
+                    Landing Page
+                </p>
+            </a>
+            <a href="https://codepen.io/MadanSinha/full/MWjPYae" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/project_pic/blob/main/survey%20f.jpg?raw=true" alt="project" />
+                <p class="project-title">
+                    Survey Form
+                </p>
+            </a>
+            <a href="https://codepen.io/MadanSinha/full/bGwxqed" target="_blank" class="project project-tile">
+                <img class="project-image" src="https://github.com/lazy4gyan/project_pic/blob/main/tribute.jpg?raw=true"
+                    alt="project" />
+                <p class="project-title">
+                    Tribute Page
+                </p>
+            </a>
+            <a href="https://codepen.io/MadanSinha/full/dybNMze" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/project_pic/blob/main/3d%20cube.jpg?raw=true" alt="project" />
+                <p class="project-title">
+                    3D Cube
+                </p>
+            </a>
+            <a href="https://cfxbu9.csb.app/" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/Frontend-Practice/blob/main/travel-journal.png?raw=true"
+                    alt="project" />
+                <p class="project-title">
+                    Travel Journal using React
+                </p>
+            </a>
+            <a href="https://8y90ff.csb.app/" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/Huddle-landing-page/blob/main/design/random.png?raw=true"
+                    alt="project" />
+                <p class="project-title">
+                    Random Picture in React by Unsplash API
+                </p>
+            </a>
+            <a href="https://osly2x.csb.app/" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/Frontend-Practice/blob/main/randomquote.png?raw=true"
+                    alt="project" />
+                <p class="project-title">
+                    Random Quote using React
+                </p>
+            </a>
+            <a href="https://moonlit-nougat-ab6465.netlify.app" target="_blank" class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/Huddle-landing-page/blob/main/design/huddle.png?raw=true"
+                    alt="project" />
+                <p class="project-title">
+                    Huddle landing page
+                </p>
+            </a>
+            <a href="https://62430ce3085a210baf9a1f20--lazygyan-3column-preview-card.netlify.app/" target="_blank"
+                class="project project-tile">
+                <img class="project-image"
+                    src="https://github.com/lazy4gyan/3-Column-Preview-Card/blob/main/design/desktop-design.jpg?raw=true"
+                    alt="project" />
+                <p class="project-title">
+                    3 Column Preview Card
+                </p>
+            </a>
+        </div>
+    </section>
+    <!-- Third Section-->
+    <section id="contact" class="contact-section">
+        <div class="contact-section-header">
+            <h2 id="con">Let's work together...</h2>
+            <p>How do you take your coffee?</p>
+        </div>
+        <div class="form">
+            <form id="form" action="mailto:example@example.com/email-submit">
+                <input type="email" id="email" placeholder="Your Email Address" name="email" required /><br>
+                <a href="#" target="_blank" id="submit" class="btn contact-submit"><i class="fas fa-arrow-right"></i></a
+                    </form>
+        </div>
+        <div class="contact-links">
+            <a href="#" target="_blank" class="btn contact-details"><i class="fab fa-instagram"></i></a>
+            <a id="profile-link" href="https://github.com/lazy4gyan" target="_blank" class="btn contact-details"><i
+                    class="fab fa-github"></i></a>
+            <a href="#" target="_blank" class="btn contact-details"><i class="fab fa-twitter"></i></a>
+            <a href="#" class="btn contact-details"><i class="fas fa-mobile-alt"></i></a>
+        </div>
+    </section>
+    <!-- END CONTACT SECTION -->
+    <!-- START FOOTER SECTION -->
+    <footer>
+        <p id="foot">
+            &copy; 2021, Made with ❤ by
+            <a id="fot" href="https://www.linkedin.com/in/madansinha/" target="_blank">Madan Sinha
+            </a>
+        </p>
+    </footer>
+    <!-- END FOOTER SECTION -->
 </body>
 </html>
