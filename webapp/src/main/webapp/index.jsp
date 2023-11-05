@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, maximum-scale=1">
-<title>Sonu Sharma Weds Laxmi sharma</title>
+<title>Sonu Sharma Weds Laxmi Sharma</title>
 <link rel="icon" href="favicon.png" type="image/png">
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
@@ -22,7 +22,7 @@
 
 <!--Hero_Section-->
 <section id="hero_section" class="top_cont_outer">
-  <div class="hero_wrapper">
+	i
     <div class="container">
       <div class="hero_section">
         <div class="row">
@@ -56,7 +56,7 @@
 			  <li><a href="#service" class="scroll-link">Program</a></li>
 			  <li><a href="#Portfolio" class="scroll-link">Photo Gallery</a></li> 
 			  <li><a href="#team" class="scroll-link">Family</a></li>
-			  <li><a href="#contact" class="scroll-link">Contact</a></li>
+			  <li><a href="#contact" class="scroll-link">Contact-8801820143</a></li>
 			</ul>
       </div>
 	 </nav>
@@ -69,7 +69,7 @@
 <div class="inner_wrapper about-us aboutUs-container fadeInLeft animated wow">
   <div class="container">
     <h2>About Us</h2>
-	<h6>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum</h6>
+	<h6>Happy married Life</h6>
     <div class="inner_section">
  <div class="row">
       <div class="col-md-6"> <img class="img-responsive" src="img/about2.png" align=""> </div>
