@@ -29,7 +29,7 @@
           <div class="col-md-12">
 		   
             <div class="top_left_cont zoomIn wow animated"> 
-              <h2>We’re getting married.<br> <strong>Sonu & Laxmi</strong></h2>
+              <h2>Happy Married Life.<br> <strong>Sonu Sharma & Laxmi Sharma</strong></h2>
 			  <h3>on Nov 29th 2023, Gwalior, Rajasthan</h3>
 			</div>
           </div> 
@@ -51,11 +51,11 @@
         </div>
 	    <div id="main-nav" class="collapse navbar-collapse navStyle">
 			<ul class="nav navbar-nav" id="mainNav">
-			  <li class="active"><a href="#hero_section" class="scroll-link">Home</a></li>
-			  <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
-			  <li><a href="#service" class="scroll-link">Program</a></li>
-			  <li><a href="#Portfolio" class="scroll-link">Photo Gallery</a></li> 
-			  <li><a href="#team" class="scroll-link">Family</a></li>
+			  <li class="active"><a href="#hero_section" class="scroll-link">Love</a></li>
+			  <li><a href="#aboutUs" class="scroll-link">Couple</a></li>
+			  <li><a href="#service" class="scroll-link">Made for Each other</a></li>
+			  <li><a href="#Portfolio" class="scroll-link">Queen</a></li> 
+			  <li><a href="#team" class="scroll-link">King</a></li>
 			  <li><a href="#contact" class="scroll-link">Contact-8801820143</a></li>
 			</ul>
       </div>
@@ -68,21 +68,21 @@
 <section id="aboutUs"><!--Aboutus-->
 <div class="inner_wrapper about-us aboutUs-container fadeInLeft animated wow">
   <div class="container">
-    <h2>About Us</h2>
-	<h6>Happy married Life</h6>
+    <h2>Wishing You</h2>
+	<h2>Happy married Life</h2>
     <div class="inner_section">
  <div class="row">
       <div class="col-md-6"> <img class="img-responsive" src="img/about2.png" align=""> </div>
       <div class="col-md-6">
         <h3>Bride’s story</h3>
-        <p>Lorem ipsum dolor sit amet, quo meis voluptaria, erant bonorum albucius et per, ei placerat eu, te eos porro veniam. An everti maiorum detracto mea. Eu eos dicam voluptaria, erant bonorum albucius et per, ei sapientem accommodare est. Saepe dolorum constituam ei vel. Te sit malorum ceteros repudiandae, ne tritani adipisci vis.</p> 
-        <h4>Hobbies </h4>
+        <p>The secret of a happy marriage is finding the right person. You know they're right if you love to be with them all the time</p> 
+        <h4>Sonu </h4>
         <ul class="about-us-list">
-			<li class="points">Consectetur Morbi sagittis, sem quisci ipsum gravida tortor</li>
-			<li class="points">Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida </li>
-			<li class="points">Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci gravida </li>
-			<li class="points">Sagittis, sem quis lacinia faucibus, orci ipsum gravida </li>
-			<li class="points">Ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci</li>
+			<li class="points">Dont judge the cover</li>
+			<li class="points">judge the book</li>
+			<li class="points">cover the judge</li>
+			<li class="points">ai</li>
+			<li class="points">what ever just dont do it</li>
 		</ul><!-- /.about-us-list -->
       </div>  
     </div> 
@@ -412,20 +412,4 @@
       </div>
     </section>
   </div>
-  <div class="container">
-    <div class="footer_bottom"><span>Copyright © 2015,    Template by <a href="http://webthemez.com">WebThemez.com</a>. </span> </div>
-  </div>
-</footer>
-
-<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/jquery-scrolltofixed.js"></script>
-<script type="text/javascript" src="js/jquery.nav.js"></script> 
-<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-<script type="text/javascript" src="js/jquery.isotope.js"></script>
-<script src="js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script> 
-<script type="text/javascript" src="js/wow.js"></script> 
-<script type="text/javascript" src="js/custom.js"></script>
-
-</body>
-</html>
+  <div c
